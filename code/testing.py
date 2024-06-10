@@ -1,6 +1,5 @@
 from pywinauto import Application, mouse
 import time
-import keyboard
 
 #not actual unit tests, this is too simple of a program for that
 # just to get used to pywinauto, never used it before
